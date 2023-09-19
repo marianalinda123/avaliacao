@@ -25,3 +25,23 @@ h2{
     ul{
         border: 5px solid green
     }
+    .cabecalho{background-color: rgb(35, 82, 17);}
+    .logo{
+        width: 200px;
+        margin-left: 100px;
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+    .lista_cabecalho{
+        display: flex;
+        margin-top: 100px;
+    }
+    .item_lista_cabecalho{
+        list-style: none;
+        color: aliceblue;
+        text-transform: uppercase;
+        font-size: 20px;
+        padding: 20px;
+    }
+
+
